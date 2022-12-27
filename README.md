@@ -1,4 +1,4 @@
-# Sany's Personal Finance Dashboard
+#Personal Finance Dashboard
 
 
 
